@@ -1,1 +1,1 @@
-# hw-coo-project-resources
+# learning-gcp-foundation
