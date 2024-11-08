@@ -1,5 +1,5 @@
 #!/bin/bash
-repo="https://github.com/nanidevsecops"
+repo="https://github.com/sudheerj2c"
 env="bld"
 workstreamlist="coo"
 tempaltelist="workstream-jcl-template"
